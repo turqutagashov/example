@@ -11,11 +11,11 @@ public class Windows {
     }
 
     void open(){
-        System.out.println("The windows are opened...");
+        System.out.println("The windows are opened.");
     }
 
     void close(){
-        System.out.println("The windows are closed...");
+        System.out.println("The windows are closed.");
     }
 
     void information(){

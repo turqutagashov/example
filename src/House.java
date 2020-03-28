@@ -8,7 +8,7 @@ public class House {
     Windows windows = new Windows();
     Door door = new Door();
     House(){
-        colour = "Blue";
+        colour = "Yellow";
         heightOfHouse = "4 metres";
     }
 

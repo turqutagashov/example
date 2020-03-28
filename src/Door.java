@@ -9,11 +9,11 @@ public class Door {
     }
 
     void open(){
-            System.out.println("The door is opened...");
+            System.out.println("The door is opened.");
         }
 
     void close(){
-            System.out.println("The door is closed...");
+            System.out.println("The door is closed.");
         }
 
     void information(){
