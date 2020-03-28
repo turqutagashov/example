@@ -22,7 +22,7 @@ public class Owner {
     }
 
     void eat() {
-        System.out.println(name + " is eating.");
+        System.out.println(name + " is eating...");
     }
 
     void sleep() {
